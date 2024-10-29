@@ -50,7 +50,7 @@
 ###
 
 <div align="left">
-  <a href="wa.me/+6282136036738" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=%2B6282136036738&text&type=phone_number&app_absent=0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=28D146&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Whatsapp logo"  />
   </a>
   <a href="https://instagram.com/desrielkiki" target="_blank">
