@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 👨‍🎓 student from "Universitas Dian Nuswantoro"
-- 🌱 I’m currently learning Kotlin, Flutter, Html-css, and Java Script
+- 🌱 I’m currently learning mobile and web development
 - 📫 How to reach me: wa.me/+6282136036738
 - 😄 Pronouns: He/Him
 
