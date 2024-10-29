@@ -26,31 +26,31 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="c# logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="30" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="redis logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="c++ logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="30" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="30" alt="ubuntu logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="30" alt="jenkins logo"  />
+  <img src="https://skillicons.dev/icons?i=idea" height="30" alt="idea logo"  />
 </div>
 
 ###
