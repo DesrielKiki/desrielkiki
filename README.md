@@ -61,6 +61,10 @@
   </a>
 </div>
 
+###
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/DesrielKiki/DesrielKiki/snake/snake.svg" alt="Snake animation" />
 
 ###
