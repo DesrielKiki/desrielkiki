@@ -51,6 +51,8 @@
   <img src="https://skillicons.dev/icons?i=ubuntu" height="30" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="30" alt="idea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
 </div>
 
 ###
