@@ -1,88 +1,105 @@
-  <h2>
-  Hi There!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h2>
-  
-###
-  
-- 👨‍🎓 student from "Universitas Dian Nuswantoro"
-- 🌱 I’m currently learning mobile and web development
-- 📫 How to reach me: wa.me/+6282136036738
-- 😄 Pronouns: He/Him
+<div align="center">
 
-###
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Desriel+%F0%9F%91%8B;IT+Student+%40+UDINUS;Full-Stack+%26+Mobile+Developer;Founder+of+ICYRIEL;Building+Digital+Ecosystems)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=desrielKiki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DesrielKiki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+[![Profile Views](https://komarev.com/ghpvc/?username=DesrielKiki&color=0D1117&style=flat)](https://github.com/DesrielKiki)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=flat&logo=instagram&logoColor=00E5FF)](https://instagram.com/desrielkiki)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat&logo=linkedin&logoColor=00E5FF)](https://linkedin.com/in/desrielfrizky)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0D1117?style=flat&logo=whatsapp&logoColor=00E5FF)](https://wa.me/+6282136036738)
+[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=flat&logo=gmail&logoColor=00E5FF)](mailto:desrielfrizky@gmail.com)
+
 </div>
 
-###
+---
 
+## 👋 About Me
 
+An **Information Technology student at Universitas Dian Nuswantoro** and the **Founder of ICYRIEL**. I am passionate about building automated workflows, scalable digital businesses, and growing the esports community. Whether it's coding a backend system or organizing a tournament, I love bringing structured solutions to creative spaces.
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="c# logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="c++ logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="30" alt="idea logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-</div>
+- 🔭 Currently building **web apps, automation scripts, and digital top-up platforms**
+- 🌱 Deepening knowledge in **mobile development, database architecture, and full-stack integration**
+- 🎮 Active in the **esports ecosystem, event organizing, and community management**
+- 🎯 Goal: Build efficient, high-performing digital products with an immaculate aesthetic
 
-###
+---
 
-<div align="left">
-  <a href="https://api.whatsapp.com/send/?phone=%2B6282136036738&text&type=phone_number&app_absent=0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=28D146&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Whatsapp logo"  />
-  </a>
-  <a href="https://instagram.com/desrielkiki" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:desrielfrizky@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/desrielfrizky/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+## 💻 Tech Stack
 
-###
+**Mobile Development**
 
-<br clear="both">
+![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=flat&logo=kotlin&logoColor=00E5FF)
+![Dart](https://img.shields.io/badge/Dart-0D1117?style=flat&logo=dart&logoColor=00E5FF)
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=flat&logo=flutter&logoColor=00E5FF)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat&logo=openjdk&logoColor=00E5FF)
 
-<img src="https://raw.githubusercontent.com/DesrielKiki/DesrielKiki/snake/snake.svg" alt="Snake animation" />
+**Web & Backend**
 
-###
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat&logo=html5&logoColor=00E5FF)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat&logo=css3&logoColor=00E5FF)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat&logo=php&logoColor=00E5FF)
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=flat&logo=laravel&logoColor=00E5FF)
+
+**Game Dev & C-Family**
+
+![C#](https://img.shields.io/badge/C%23-0D1117?style=flat&logo=csharp&logoColor=00E5FF)
+![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=flat&logo=cplusplus&logoColor=00E5FF)
+![Unity](https://img.shields.io/badge/Unity-0D1117?style=flat&logo=unity&logoColor=00E5FF)
+
+**Database, OS & Cloud**
+
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat&logo=mysql&logoColor=00E5FF)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat&logo=supabase&logoColor=00E5FF)
+![GCP](https://img.shields.io/badge/GCP-0D1117?style=flat&logo=googlecloud&logoColor=00E5FF)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat&logo=linux&logoColor=00E5FF)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=flat&logo=ubuntu&logoColor=00E5FF)
+
+**IDEs & Tools**
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=flat&logo=androidstudio&logoColor=00E5FF)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat&logo=visualstudiocode&logoColor=00E5FF)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-0D1117?style=flat&logo=visualstudio&logoColor=00E5FF)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-0D1117?style=flat&logo=intellijidea&logoColor=00E5FF)
+
+---
+
+## 🚀 Featured Experience & Projects
+
+| Project / Role | Description | Stack / Scope |
+|---|---|---|
+| ❄️ **ICYRIEL Platform** | Managing a digital business providing game top-ups, premium apps, and social media services. | Laravel, MySQL, Supabase |
+| 📊 **WDP Automation** | Building automated tracking systems for Weekly Diamond Pass cycles and sales metrics. | Google Apps Script, Automation |
+| 🏆 **Hi-Tech Event** | Coordinator for technology exhibition and competition programs. | Event Management, IT |
+| 🌌 **Icy Verse Hub** | Creating an integrated community and official Discord hub for esports enthusiasts and customers. | Community Building, Esports |
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/DesrielKiki/count.svg?"  />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DesrielKiki&theme=transparent&hide_border=true&show_icons=true&icon_color=00E5FF&text_color=A6ACCD&title_color=00E5FF)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=DesrielKiki&theme=transparent&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=A6ACCD&dates=A6ACCD&sideNums=00E5FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DesrielKiki&theme=transparent&hide_border=true&layout=compact&text_color=A6ACCD&title_color=00E5FF)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DesrielKiki&theme=github-compact&hide_border=true&color=E5E7EB&line=00E5FF&point=9CA3AF)
 </div>
 
-###
+---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DesrielKiki/DesrielKiki/snake/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DesrielKiki/DesrielKiki/snake/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DesrielKiki/DesrielKiki/snake/snake.svg" />
+</picture>
+
+</div>
+
+---
+
+> *"Designing cold aesthetics and building robust systems — execution is everything."*
