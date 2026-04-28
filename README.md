@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Desriel+%F0%9F%91%8B;IT+Student+%40+UDINUS;Full-Stack+%26+Mobile+Developer;Founder+of+ICYRIEL;Building+Digital+Ecosystems)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=DesrielKiki&color=0D1117&style=flat)](https://github.com/DesrielKiki)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=flat&logo=instagram&logoColor=00E5FF)](https://instagram.com/desrielkiki)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=flat&logo=instagram&logoColor=00E5FF)](https://instagram.com/desriel.kiki)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat&logo=linkedin&logoColor=00E5FF)](https://linkedin.com/in/desrielfrizky)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0D1117?style=flat&logo=whatsapp&logoColor=00E5FF)](https://wa.me/+6282136036738)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=flat&logo=gmail&logoColor=00E5FF)](mailto:desrielfrizky@gmail.com)
